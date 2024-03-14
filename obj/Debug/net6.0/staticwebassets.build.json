@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yXnHT/MQzXDnC90wpznt0P0Mz1XU8pbhJCE9sE/Ba+s=",
+  "Source": "OnlineBankAPI",
+  "BasePath": "_content/OnlineBankAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
